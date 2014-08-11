@@ -4,7 +4,7 @@
   <title><![CDATA[Category: News | Mr. .NET]]></title>
   <link href="http://hasaki.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://hasaki.github.io/"/>
-  <updated>2014-08-04T16:51:20-04:00</updated>
+  <updated>2014-08-10T20:30:43-04:00</updated>
   <id>http://hasaki.github.io/</id>
   <author>
     <name><![CDATA[James Johnson]]></name>
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://hasaki.github.io/blog/2014/08/04/hello-world/"/>
-    <updated>2014-08-04T16:41:20-04:00</updated>
-    <id>http://hasaki.github.io/blog/2014/08/04/hello-world</id>
+    <link href="http://hasaki.github.io/blog/2014/08/10/hello-world/"/>
+    <updated>2014-08-10T16:41:20-04:00</updated>
+    <id>http://hasaki.github.io/blog/2014/08/10/hello-world</id>
     <content type="html"><![CDATA[<p>Well it was bound to happen&hellip;.I go so long without making any updates and bam, I decide to switch blogging engines.  Not that WordPress.com wasn&rsquo;t nice, but there are just some things you can&rsquo;t do with it; that I want to do.</p>
 
 <p>From my earliest memories until just before I went to college whenever anyone asked what I wanted to be when I grew up; I always knew&hellip;.I wanted to make video games.</p>
 
-<p>Now, I&rsquo;m not changing jobs&hellip;.I love what I do and will probably never become a full-time game developer.  But, I think its time to start really digging into my passion.  And that brings me back to WordPress, while it was great for making the occasional post, I find myself working with git and github all day long.  So it just makes sense to try to tie my blogging into my workflow.  And through GitHub Pages (which is how this is being hosted) I can also post the games I make.</p>
+<p>Now, I&rsquo;m not changing jobs&hellip;.I love what I do and will probably never become a full-time game developer.  But, I think its time to start really digging into my passion.  And that brings me back to WordPress, while it was great for making the occasional post, I find myself working with git and github all day long.  So it just makes sense to try to tie my blogging into my workflow.  And through GitHub Pages (which is how this is being hosted) I can also post the games I make for fun.</p>
 ]]></content>
   </entry>
   
